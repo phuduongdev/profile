@@ -57,14 +57,14 @@ function Footer(props) {
             </a>
           </li>
           <li>
-            <i className="fab fa-facebook-square" />
+            <i className="fab fa-globe" />
             &nbsp;
             <a
-              href="https://facebook.com/duongtanphu"
+              href="https://phuduongdev.github.io/profile"
               target="_blank"
               className="btn contact-details"
             >
-              facebook.com/duongtanphu
+              https://phuduongdev.github.io/profile
             </a>
           </li>
         </ul>
