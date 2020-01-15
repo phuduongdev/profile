@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/phuduongdev/profile.git/static/css/main.0b44fbb1.chunk.css",
-    "main.js": "/phuduongdev/profile.git/static/js/main.19320007.chunk.js",
-    "main.js.map": "/phuduongdev/profile.git/static/js/main.19320007.chunk.js.map",
-    "runtime-main.js": "/phuduongdev/profile.git/static/js/runtime-main.4d09a097.js",
-    "runtime-main.js.map": "/phuduongdev/profile.git/static/js/runtime-main.4d09a097.js.map",
-    "static/js/2.1562b256.chunk.js": "/phuduongdev/profile.git/static/js/2.1562b256.chunk.js",
-    "static/js/2.1562b256.chunk.js.map": "/phuduongdev/profile.git/static/js/2.1562b256.chunk.js.map",
-    "index.html": "/phuduongdev/profile.git/index.html",
-    "precache-manifest.f96b96e1edaf00ba3a1d64b7b3289ba9.js": "/phuduongdev/profile.git/precache-manifest.f96b96e1edaf00ba3a1d64b7b3289ba9.js",
-    "service-worker.js": "/phuduongdev/profile.git/service-worker.js",
-    "static/css/main.0b44fbb1.chunk.css.map": "/phuduongdev/profile.git/static/css/main.0b44fbb1.chunk.css.map",
-    "static/js/2.1562b256.chunk.js.LICENSE": "/phuduongdev/profile.git/static/js/2.1562b256.chunk.js.LICENSE",
-    "static/media/click1.wav": "/phuduongdev/profile.git/static/media/click1.7a7930a2.wav",
-    "static/media/click2.wav": "/phuduongdev/profile.git/static/media/click2.fe0ded65.wav"
+    "main.css": "/phuduongdev/profile/static/css/main.0b44fbb1.chunk.css",
+    "main.js": "/phuduongdev/profile/static/js/main.a34dccdc.chunk.js",
+    "main.js.map": "/phuduongdev/profile/static/js/main.a34dccdc.chunk.js.map",
+    "runtime-main.js": "/phuduongdev/profile/static/js/runtime-main.169d953c.js",
+    "runtime-main.js.map": "/phuduongdev/profile/static/js/runtime-main.169d953c.js.map",
+    "static/js/2.ddecaf2d.chunk.js": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js",
+    "static/js/2.ddecaf2d.chunk.js.map": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js.map",
+    "index.html": "/phuduongdev/profile/index.html",
+    "precache-manifest.04c37c03650dbf1b3e34e7b444602b5c.js": "/phuduongdev/profile/precache-manifest.04c37c03650dbf1b3e34e7b444602b5c.js",
+    "service-worker.js": "/phuduongdev/profile/service-worker.js",
+    "static/css/main.0b44fbb1.chunk.css.map": "/phuduongdev/profile/static/css/main.0b44fbb1.chunk.css.map",
+    "static/js/2.ddecaf2d.chunk.js.LICENSE": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js.LICENSE",
+    "static/media/click1.wav": "/phuduongdev/profile/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/phuduongdev/profile/static/media/click2.fe0ded65.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d09a097.js",
-    "static/js/2.1562b256.chunk.js",
+    "static/js/runtime-main.169d953c.js",
+    "static/js/2.ddecaf2d.chunk.js",
     "static/css/main.0b44fbb1.chunk.css",
-    "static/js/main.19320007.chunk.js"
+    "static/js/main.a34dccdc.chunk.js"
   ]
 }
