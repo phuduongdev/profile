@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/phuduongdev/profile/static/css/main.0b44fbb1.chunk.css",
-    "main.js": "/phuduongdev/profile/static/js/main.a34dccdc.chunk.js",
-    "main.js.map": "/phuduongdev/profile/static/js/main.a34dccdc.chunk.js.map",
-    "runtime-main.js": "/phuduongdev/profile/static/js/runtime-main.169d953c.js",
-    "runtime-main.js.map": "/phuduongdev/profile/static/js/runtime-main.169d953c.js.map",
-    "static/js/2.ddecaf2d.chunk.js": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js",
-    "static/js/2.ddecaf2d.chunk.js.map": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js.map",
-    "index.html": "/phuduongdev/profile/index.html",
-    "precache-manifest.04c37c03650dbf1b3e34e7b444602b5c.js": "/phuduongdev/profile/precache-manifest.04c37c03650dbf1b3e34e7b444602b5c.js",
-    "service-worker.js": "/phuduongdev/profile/service-worker.js",
-    "static/css/main.0b44fbb1.chunk.css.map": "/phuduongdev/profile/static/css/main.0b44fbb1.chunk.css.map",
-    "static/js/2.ddecaf2d.chunk.js.LICENSE": "/phuduongdev/profile/static/js/2.ddecaf2d.chunk.js.LICENSE",
-    "static/media/click1.wav": "/phuduongdev/profile/static/media/click1.7a7930a2.wav",
-    "static/media/click2.wav": "/phuduongdev/profile/static/media/click2.fe0ded65.wav"
+    "main.css": "/profile/static/css/main.0b44fbb1.chunk.css",
+    "main.js": "/profile/static/js/main.e6a7ae9d.chunk.js",
+    "main.js.map": "/profile/static/js/main.e6a7ae9d.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.3026efc4.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.3026efc4.js.map",
+    "static/js/2.ddecaf2d.chunk.js": "/profile/static/js/2.ddecaf2d.chunk.js",
+    "static/js/2.ddecaf2d.chunk.js.map": "/profile/static/js/2.ddecaf2d.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.f35e9c75aa88cf2629533648bd4419df.js": "/profile/precache-manifest.f35e9c75aa88cf2629533648bd4419df.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/main.0b44fbb1.chunk.css.map": "/profile/static/css/main.0b44fbb1.chunk.css.map",
+    "static/js/2.ddecaf2d.chunk.js.LICENSE": "/profile/static/js/2.ddecaf2d.chunk.js.LICENSE",
+    "static/media/click1.wav": "/profile/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/profile/static/media/click2.fe0ded65.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.169d953c.js",
+    "static/js/runtime-main.3026efc4.js",
     "static/js/2.ddecaf2d.chunk.js",
     "static/css/main.0b44fbb1.chunk.css",
-    "static/js/main.a34dccdc.chunk.js"
+    "static/js/main.e6a7ae9d.chunk.js"
   ]
 }
